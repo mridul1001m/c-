@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Mridul c#\readeerwriter\readeerwriter\bin\Debug\net8.0\readeerwriter.exe
+C:\Users\Student\Desktop\Mridul c#\readeerwriter\readeerwriter\bin\Debug\net8.0\readeerwriter.deps.json
+C:\Users\Student\Desktop\Mridul c#\readeerwriter\readeerwriter\bin\Debug\net8.0\readeerwriter.runtimeconfig.json
+C:\Users\Student\Desktop\Mridul c#\readeerwriter\readeerwriter\bin\Debug\net8.0\readeerwriter.dll
+C:\Users\Student\Desktop\Mridul c#\readeerwriter\readeerwriter\bin\Debug\net8.0\readeerwriter.pdb
+C:\Users\Student\Desktop\Mridul c#\readeerwriter\readeerwriter\obj\Debug\net8.0\readeerwriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Mridul c#\readeerwriter\readeerwriter\obj\Debug\net8.0\readeerwriter.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Mridul c#\readeerwriter\readeerwriter\obj\Debug\net8.0\readeerwriter.AssemblyInfo.cs
+C:\Users\Student\Desktop\Mridul c#\readeerwriter\readeerwriter\obj\Debug\net8.0\readeerwriter.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Mridul c#\readeerwriter\readeerwriter\obj\Debug\net8.0\readeerwriter.dll
+C:\Users\Student\Desktop\Mridul c#\readeerwriter\readeerwriter\obj\Debug\net8.0\refint\readeerwriter.dll
+C:\Users\Student\Desktop\Mridul c#\readeerwriter\readeerwriter\obj\Debug\net8.0\readeerwriter.pdb
+C:\Users\Student\Desktop\Mridul c#\readeerwriter\readeerwriter\obj\Debug\net8.0\readeerwriter.genruntimeconfig.cache
+C:\Users\Student\Desktop\Mridul c#\readeerwriter\readeerwriter\obj\Debug\net8.0\ref\readeerwriter.dll
