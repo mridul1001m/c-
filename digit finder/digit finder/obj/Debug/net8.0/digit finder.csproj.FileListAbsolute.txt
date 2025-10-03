@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Mridul c#\digit finder\digit finder\bin\Debug\net8.0\digit finder.exe
+C:\Users\Student\Desktop\Mridul c#\digit finder\digit finder\bin\Debug\net8.0\digit finder.deps.json
+C:\Users\Student\Desktop\Mridul c#\digit finder\digit finder\bin\Debug\net8.0\digit finder.runtimeconfig.json
+C:\Users\Student\Desktop\Mridul c#\digit finder\digit finder\bin\Debug\net8.0\digit finder.dll
+C:\Users\Student\Desktop\Mridul c#\digit finder\digit finder\bin\Debug\net8.0\digit finder.pdb
+C:\Users\Student\Desktop\Mridul c#\digit finder\digit finder\obj\Debug\net8.0\digit finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Mridul c#\digit finder\digit finder\obj\Debug\net8.0\digit finder.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Mridul c#\digit finder\digit finder\obj\Debug\net8.0\digit finder.AssemblyInfo.cs
+C:\Users\Student\Desktop\Mridul c#\digit finder\digit finder\obj\Debug\net8.0\digit finder.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Mridul c#\digit finder\digit finder\obj\Debug\net8.0\digit finder.dll
+C:\Users\Student\Desktop\Mridul c#\digit finder\digit finder\obj\Debug\net8.0\refint\digit finder.dll
+C:\Users\Student\Desktop\Mridul c#\digit finder\digit finder\obj\Debug\net8.0\digit finder.pdb
+C:\Users\Student\Desktop\Mridul c#\digit finder\digit finder\obj\Debug\net8.0\digit finder.genruntimeconfig.cache
+C:\Users\Student\Desktop\Mridul c#\digit finder\digit finder\obj\Debug\net8.0\ref\digit finder.dll
