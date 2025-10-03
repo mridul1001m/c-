@@ -1,0 +1,4 @@
+C:\Users\Student\Desktop\Mridul c#\list of substring\list of substring\obj\Debug\net8.0\list of substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Mridul c#\list of substring\list of substring\obj\Debug\net8.0\list of substring.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Mridul c#\list of substring\list of substring\obj\Debug\net8.0\list of substring.AssemblyInfo.cs
+C:\Users\Student\Desktop\Mridul c#\list of substring\list of substring\obj\Debug\net8.0\list of substring.csproj.CoreCompileInputs.cache
