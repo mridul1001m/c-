@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Mridul c#\inr to usd eur gbp\inr to usd eur gbp\bin\Debug\net8.0\inr to usd eur gbp.exe
+C:\Users\Student\Desktop\Mridul c#\inr to usd eur gbp\inr to usd eur gbp\bin\Debug\net8.0\inr to usd eur gbp.deps.json
+C:\Users\Student\Desktop\Mridul c#\inr to usd eur gbp\inr to usd eur gbp\bin\Debug\net8.0\inr to usd eur gbp.runtimeconfig.json
+C:\Users\Student\Desktop\Mridul c#\inr to usd eur gbp\inr to usd eur gbp\bin\Debug\net8.0\inr to usd eur gbp.dll
+C:\Users\Student\Desktop\Mridul c#\inr to usd eur gbp\inr to usd eur gbp\bin\Debug\net8.0\inr to usd eur gbp.pdb
+C:\Users\Student\Desktop\Mridul c#\inr to usd eur gbp\inr to usd eur gbp\obj\Debug\net8.0\inr to usd eur gbp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Mridul c#\inr to usd eur gbp\inr to usd eur gbp\obj\Debug\net8.0\inr to usd eur gbp.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Mridul c#\inr to usd eur gbp\inr to usd eur gbp\obj\Debug\net8.0\inr to usd eur gbp.AssemblyInfo.cs
+C:\Users\Student\Desktop\Mridul c#\inr to usd eur gbp\inr to usd eur gbp\obj\Debug\net8.0\inr to usd eur gbp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Mridul c#\inr to usd eur gbp\inr to usd eur gbp\obj\Debug\net8.0\inr to usd eur gbp.dll
+C:\Users\Student\Desktop\Mridul c#\inr to usd eur gbp\inr to usd eur gbp\obj\Debug\net8.0\refint\inr to usd eur gbp.dll
+C:\Users\Student\Desktop\Mridul c#\inr to usd eur gbp\inr to usd eur gbp\obj\Debug\net8.0\inr to usd eur gbp.pdb
+C:\Users\Student\Desktop\Mridul c#\inr to usd eur gbp\inr to usd eur gbp\obj\Debug\net8.0\inr to usd eur gbp.genruntimeconfig.cache
+C:\Users\Student\Desktop\Mridul c#\inr to usd eur gbp\inr to usd eur gbp\obj\Debug\net8.0\ref\inr to usd eur gbp.dll

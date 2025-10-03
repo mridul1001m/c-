@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "inr to usd eur gbp/1.0.0": {
+        "runtime": {
+          "inr to usd eur gbp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inr to usd eur gbp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
