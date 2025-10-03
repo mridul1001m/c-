@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Mridul c#\class work cons\class work cons\bin\Debug\net8.0\class work cons.exe
+C:\Users\Student\Desktop\Mridul c#\class work cons\class work cons\bin\Debug\net8.0\class work cons.deps.json
+C:\Users\Student\Desktop\Mridul c#\class work cons\class work cons\bin\Debug\net8.0\class work cons.runtimeconfig.json
+C:\Users\Student\Desktop\Mridul c#\class work cons\class work cons\bin\Debug\net8.0\class work cons.dll
+C:\Users\Student\Desktop\Mridul c#\class work cons\class work cons\bin\Debug\net8.0\class work cons.pdb
+C:\Users\Student\Desktop\Mridul c#\class work cons\class work cons\obj\Debug\net8.0\class work cons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Mridul c#\class work cons\class work cons\obj\Debug\net8.0\class work cons.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Mridul c#\class work cons\class work cons\obj\Debug\net8.0\class work cons.AssemblyInfo.cs
+C:\Users\Student\Desktop\Mridul c#\class work cons\class work cons\obj\Debug\net8.0\class work cons.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Mridul c#\class work cons\class work cons\obj\Debug\net8.0\class work cons.dll
+C:\Users\Student\Desktop\Mridul c#\class work cons\class work cons\obj\Debug\net8.0\refint\class work cons.dll
+C:\Users\Student\Desktop\Mridul c#\class work cons\class work cons\obj\Debug\net8.0\class work cons.pdb
+C:\Users\Student\Desktop\Mridul c#\class work cons\class work cons\obj\Debug\net8.0\class work cons.genruntimeconfig.cache
+C:\Users\Student\Desktop\Mridul c#\class work cons\class work cons\obj\Debug\net8.0\ref\class work cons.dll
