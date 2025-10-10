@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Mridul c#\multicastingdelegate\multicastingdelegate\bin\Debug\net8.0\multicastingdelegate.exe
+C:\Users\Student\Desktop\Mridul c#\multicastingdelegate\multicastingdelegate\bin\Debug\net8.0\multicastingdelegate.deps.json
+C:\Users\Student\Desktop\Mridul c#\multicastingdelegate\multicastingdelegate\bin\Debug\net8.0\multicastingdelegate.runtimeconfig.json
+C:\Users\Student\Desktop\Mridul c#\multicastingdelegate\multicastingdelegate\bin\Debug\net8.0\multicastingdelegate.dll
+C:\Users\Student\Desktop\Mridul c#\multicastingdelegate\multicastingdelegate\bin\Debug\net8.0\multicastingdelegate.pdb
+C:\Users\Student\Desktop\Mridul c#\multicastingdelegate\multicastingdelegate\obj\Debug\net8.0\multicastingdelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Mridul c#\multicastingdelegate\multicastingdelegate\obj\Debug\net8.0\multicastingdelegate.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Mridul c#\multicastingdelegate\multicastingdelegate\obj\Debug\net8.0\multicastingdelegate.AssemblyInfo.cs
+C:\Users\Student\Desktop\Mridul c#\multicastingdelegate\multicastingdelegate\obj\Debug\net8.0\multicastingdelegate.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Mridul c#\multicastingdelegate\multicastingdelegate\obj\Debug\net8.0\multicastingdelegate.dll
+C:\Users\Student\Desktop\Mridul c#\multicastingdelegate\multicastingdelegate\obj\Debug\net8.0\refint\multicastingdelegate.dll
+C:\Users\Student\Desktop\Mridul c#\multicastingdelegate\multicastingdelegate\obj\Debug\net8.0\multicastingdelegate.pdb
+C:\Users\Student\Desktop\Mridul c#\multicastingdelegate\multicastingdelegate\obj\Debug\net8.0\multicastingdelegate.genruntimeconfig.cache
+C:\Users\Student\Desktop\Mridul c#\multicastingdelegate\multicastingdelegate\obj\Debug\net8.0\ref\multicastingdelegate.dll
